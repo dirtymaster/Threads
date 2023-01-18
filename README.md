@@ -1,7 +1,4 @@
-# Day 03 – Java bootcamp
-### Threads
-
-*Takeaways: Today you will learn how to use basic multithreading mechanisms in Java*
+# Threads
 
 ### Exercise 00 – Egg, Hen... or Human?
 
